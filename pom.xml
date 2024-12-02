@@ -22,7 +22,7 @@
 		<developer/>
 	</developers>
     <modules>
-		<module>hexagonal-style</module>
+		<module>hexagonal-service</module>
 	</modules>
     <scm>
 		<connection/>
